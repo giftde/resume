@@ -2,7 +2,7 @@
     {
         "title": "仿小米官网-首页",
         "desc": "使用的技术栈有:laravel框架，JavaScript+JQuery技术，Ajax技术，做的一个响应式的仿小米的网站，能与与后台交互，包含登录、注册、退出、加入购物车、下订单、结算、发货、个人中心功能",
-        "imgName": "7",
+        "imgName": "1",
         "demoAddress": "resume",
         "codeAddress": "laravel"
     }
